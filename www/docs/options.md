@@ -1,6 +1,6 @@
 ---
-id: configuration
-title: Configuration
+id: options
+title: Options
 ---
 *This documentation is for next-auth@beta and is not complete. It will be updated closer to release.*
 

@@ -1,6 +1,6 @@
 ---
-id: adapters
-title: Adapters
+id: adapter
+title: Adapter
 ---
 
 An "*Adapter*" in NextAuth.js is the thing that connects your application to whatever database / backend system you want to use to store data for user accounts, sessions, etc.
